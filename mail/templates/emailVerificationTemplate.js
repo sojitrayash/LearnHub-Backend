@@ -68,7 +68,7 @@ const otpTemplate = (otp, name) => {
 	
 	<body>
 		<div class="container">
-			<a href="#">
+			<a href="https://learn-hub-frontend-two.vercel.app/">
                 <img src="https://res.cloudinary.com/dzpwzmykg/image/upload/v1756961308/logo2_l94lbs.png" 
                      alt="LearnHub Logo" 
                      width="200" 
