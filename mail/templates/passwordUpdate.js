@@ -55,7 +55,7 @@ exports.passwordUpdated = (email, name) => {
     
     <body>
         <div class="container">
-            <a href="#">
+            <a href="https://learn-hub-frontend-two.vercel.app/">
                 <img src="https://res.cloudinary.com/dzpwzmykg/image/upload/v1756961308/logo2_l94lbs.png" 
                      alt="LearnHub Logo" 
                      width="200" 
@@ -70,7 +70,7 @@ exports.passwordUpdated = (email, name) => {
             </div>
             <div class="support">If you have any questions or need further assistance, please feel free to reach out to us
                 at
-                <a href="mailto:info@LearnHub.com">info@LearnHub.com</a>. We are here to help!
+                <a href="mailto:sojitrayashkumar@gmail.com">sojitrayashkumar@gmail.com</a>. We are here to help!
             </div>
         </div>
     </body>
